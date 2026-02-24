@@ -1,3 +1,4 @@
+ UC2-HardCodePalindrone
 
 public class PalindroneCheckerApp {
 
@@ -22,3 +23,12 @@ public class PalindroneCheckerApp {
 
     }
 }
+
+public class PalindroneCheckerApp {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Palindrone Checker App management system");
+    }
+
+
+}
+
